@@ -24,7 +24,7 @@
   </property>
   <property>
      <name>dfs.datanode.data.dir</name>
-     <value>file:///mnt/volume_b/hdfs/data</value>
+     <value>file:///mnt/volume_xvdb/hdfs/data</value>
   </property>
   <property>
      <name>dfs.namenode.checkpoint.dir</name>
