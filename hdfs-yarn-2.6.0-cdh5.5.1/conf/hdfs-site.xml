@@ -30,4 +30,8 @@
      <name>dfs.namenode.checkpoint.dir</name>
      <value>file:///mnt/volume_xvdb/hdfs/namesecondary</value>
   </property>
+  <property>
+     <name>dfs.permissions.superusergroup</name>
+     <value>hadoop</value>
+  </property>
 </configuration>
